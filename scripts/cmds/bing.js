@@ -66,4 +66,4 @@ module.exports = {
       return message.reply("Redirect failed! Most probably bad prompt.");
     }
   }
-}
+    }
